@@ -5,7 +5,7 @@
     "year": 1999,
     "director": "Eiichirô Oda",
     "genre": "Anime",
-    "rating": "9.3"
+    "rating": 9.3
     "image" : "OnePiece.jpg"
   },
   {
@@ -14,7 +14,7 @@
     "year": 1972,
     "director": "Francis Ford Coppola",
     "genre": "Crime",
-    "rating": "9.2"
+    "rating": 9.2
   },
   {
     "id" : 3,
@@ -22,6 +22,6 @@
     "year": 2008,
     "director": "Christopher Nolan",
     "genre":  "Drama",
-    "rating": "9.0"
+    "rating": 9.0
   }
 ]
